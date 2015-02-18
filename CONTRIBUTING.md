@@ -4,6 +4,11 @@ Contributing to typeahead.js
 *These contributing guidelines were proudly stolen from the 
 [Flight](https://github.com/flightjs/flight) project*
 
+
+
+
+
+
 Looking to contribute something to typeahead.js? Here's how you can help.
 
 Bugs Reports
